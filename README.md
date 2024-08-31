@@ -14,12 +14,5 @@ As the interface between a human and a machine gets more seamless, the need for 
 </ul>
 
 <b>Note: </b>The libraries use upto ~100MB of disk space.
-  
-<h3><b>TODO -</b></h3>
-<ul>
-  <li>Draw the Sudoku and Buttons</li>
-  <li>Track Hands and Get Mouse Coords upon Click</li>
-  <li>Make the Sudoku Solver</li>
-  <li>Modularize and integrate all the code</li>
-</ul>
+
 
